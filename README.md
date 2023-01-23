@@ -96,9 +96,7 @@ The databse contains four models:
 
 * `Product` belongs to many `Tag` models, and `Tag` belongs to many `Product` models. Allow products to have multiple tags and tags to have many products by using the `ProductTag` through model.
 
-## Screenshots
 
+A walkthrough video demonstrating the functionality of the application - [walkthrough Video](Assets/ecommerce.mp4)
 
-A walkthrough video demonstrating the functionality of the application -
-
-GitHub repository - 
+GitHub repository - https://github.com/Kaviambi/E-Commerce-Challenge.git
