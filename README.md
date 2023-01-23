@@ -100,3 +100,5 @@ The databse contains four models:
 A walkthrough video demonstrating the functionality of the application - [walkthrough Video](Assets/ecommerce.mp4)
 
 GitHub repository - https://github.com/Kaviambi/E-Commerce-Challenge.git
+
+Heroku - https://ecommerce-kk.herokuapp.com/
